@@ -3,6 +3,11 @@ body, html
     background-color: #EDEDED !important;
 }
 
+p
+{
+    margin-left: 100px;
+}
+
 .technology-image
 {
   height: 120px;
@@ -12,12 +17,12 @@ body, html
 .portfolio-item
 {
   width: 420px;
-  height: 350px;
+  height: 525px;
 }
 
 .portfolio-item-large
 {
-  height: 200px;
+  height: 300px;
 }
 
 .portfolio-content
